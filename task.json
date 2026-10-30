@@ -1,20 +1,21 @@
+
 {
   "event": "Cyberween",
   "guests": [
     {
       "name": "Cyber Shaman",
       "about": "A mysterious mystic who controls the electronics around him. His face is hidden under a mask with LED symbols that change based on his mood.",
-      "photo_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=85"
+      "photo_url": "https://raw.githubusercontent.com/olhaTeacher/WebMiddle-Cyberween/main/cyber-shaman.jpg"
     },
     {
       "name": "Neon Coder",
       "about": "An engineer in a coat lined with neon lines. He sets up digital illusions around himself, creating an impression of an unusual reality.",
-      "photo_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=700&auto=format&fit=crop&q=85"
+      "photo_url": "https://raw.githubusercontent.com/olhaTeacher/WebMiddle-Cyberween/main/neon-coder.jpg"
     },
     {
       "name": "Hacker Pilot",
       "about": "A master of drones, remotely controlling them for navigation. She wears virtual reality goggles that allow her to see through the eyes of her drones.",
-      "photo_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=700&auto=format&fit=crop&q=85"
+      "photo_url": "https://raw.githubusercontent.com/olhaTeacher/WebMiddle-Cyberween/main/hacker-pilot.jpg"
     }
   ]
 }
